@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<App uuid="ee33daaa-756c-4368-a1b1-8a0eaf4da8">
+   <Name>Shinystat Counter</Name>
+   <Author>Incomedia</Author>
+   <Version>3</Version>
+   <Category>Page Counters</Category>
+   <Description l10n-id="description">Show the Shinystat visit counter. NOTE: you need to register to www.shinystat.com to use this widget.</Description>
+   <ShowPreview>True</ShowPreview>
+   <Parameters>
+      <Tab>
+         <Fields>
+			 <Field type="text" id="username">
+					<UpdatesPreview>true</UpdatesPreview>
+					<IsPassword>false</IsPassword>
+					<ShowPasswordCreation>false</ShowPasswordCreation>
+					<MaxLength>50</MaxLength>
+					<Multiline>false</Multiline>
+					<LinesCount>1</LinesCount>
+					<ShowScrollBar>false</ShowScrollBar>
+					<Label l10n-id="shinystatUsername">Shinystat Username:</Label>
+					<Mandatory>True</Mandatory>
+			</Field>
+		</Fields>
+		<ShowPreview>True</ShowPreview>
+      </Tab>
+   </Parameters>
+   <Output>
+	<![CDATA[
+ <script type="text/javascript" src="http://codice.shinystat.com/cgi-bin/getcod.cgi?USER=<?wsx5 document.write(parameters.username.value) ?>"></script>
+<noscript>
+<a href="http://www.shinystat.com/" target="_top">
+<img src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=<?wsx5 document.write(parameters.username.value) ?>" alt="Online users" border="0" /></a>
+</noscript>
+   ]]>
+   </Output>
+   <PreviewOutput>
+	<![CDATA[<div style="margin-top: 50px">
+<a href="http://www.shinystat.com/" target="_top">
+<img src="http://www.shinystat.com/cgi-bin/shinystat.cgi?USER=<?wsx5 document.write(parameters.username.value) ?>" alt="Online users" border="0" /></a></div>
+   ]]>
+   </PreviewOutput>
+</App>
+

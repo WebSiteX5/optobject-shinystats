@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebsiteX5LanguagesLibrary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Languages>
+    <Language>
+      <Code><![CDATA[BG]]></Code>
+      <Name><![CDATA[Bulgarian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Покаване на Shinystat брой посещения.ЗАБЕЛЕЖКА: Трябва да се регистрирате на www.shinystat.com, за да използвате тази добавка.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Shinystat потребителско име:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[BR]]></Code>
+      <Name><![CDATA[Brasilian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Mostrar o contador de visitas Shinystat. OBS: é preciso estar cadastrado no www.shinystat.com para poder usar este Widget.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Nome usuário Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[CZ]]></Code>
+      <Name><![CDATA[Czech]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Zobrazit počítatdlo návštěv Shinystat.\n\nPOZNÁMKA: Pro pouití tohoto widgetu se musíte registrovat na www.shinystat.com.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Uživatelské jméno Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[DA]]></Code>
+      <Name><![CDATA[Dansk]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Vis Shinystat besøgs tæller. Bemærk: du skal registrere dig på www.shinystat.com at bruge dette værktøj.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Shinystat brugernavn:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[DE]]></Code>
+      <Name><![CDATA[German]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Shinystat Besucherzähler anzeigen. HINWEIS: Um dieses Widget zu nutzen, müssen Sie sich unter www.shinystat.com registrieren.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Shinystat Benutzername:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[EN]]></Code>
+      <Name><![CDATA[English]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Show the Shinystat visit counter. NOTE: you need to register to www.shinystat.com to use this Widget.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Shinystat Username:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[ES]]></Code>
+      <Name><![CDATA[Spanish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Mostrar el contador de visitas de Shinystat. NOTA: para usar este Widget es necesario registrarse primero en la web www.shinystat.com.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Nombre de usuario en Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[FR]]></Code>
+      <Name><![CDATA[French]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Afficher le compteur de visites Shinystat. NOTE : vous devez vous enregistrer sur www.shinystat.com pour utiliser ce Widget.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Nom d'utilisateur de Shinystat :</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[GR]]></Code>
+      <Name><![CDATA[Greek]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Ενμφάνιση μετρητή επισκέψεων Shinystat. ΣΗΜΕΙΩΣΗ: πρέπει να εγγραφείτε στο www.shinystat.com για να χρησιμοποιήσετε αυτό το Widget.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Όνομα χρήστη Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[HU]]></Code>
+      <Name><![CDATA[Hungarian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>A Shinystat látogató számláló megjelenítése. MEGJEGYZÉS: a Widget használatához regisztráció szükséges a www.shinystat.com weboldalon.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Shinystat felhasználónév:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[IT]]></Code>
+      <Name><![CDATA[Italian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Mostra il contatore delle visite di Shinystat. NOTA: è necessario prima registrarsi sul sito www.shinystat.com per utilizzare questa Widget.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Username Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[NL]]></Code>
+      <Name><![CDATA[Dutch]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Toon de bezoekersteller van Shinystat. Opmerking: u moet zich registreren op www.shinystat.com om deze widget te kunnen gebruiken.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Gebruikersnaam Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[PL]]></Code>
+      <Name><![CDATA[Polish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Wstaw licznik odwiedzin Shinystat . UWAGA: uzycie tego gadżetu wymaga zarejestrowania na stronie www.shinystat.com..</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Nazwa użytkownika Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[RU]]></Code>
+      <Name><![CDATA[Russian]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Показать счетчик посещений Shinystat. Примечание: чтобы воспользоваться виджетом, необходимо зарегистрироваться на сайте www.shinystat.com.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Имя пользователя на Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[SK]]></Code>
+      <Name><![CDATA[Slovak]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Zobraziť počítadlo návštev Shinystat.\nPOZNÁMKA: Pre použitie tohto widgetu sa musíte zaregistrovať na www.shinystat.com.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Užívateľské meno Shinystat:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+    <Language>
+      <Code><![CDATA[TR]]></Code>
+      <Name><![CDATA[Turkish]]></Name>
+      <WritingDirection><![CDATA[LeftToRight]]></WritingDirection>
+      <Localizations>
+        <Localization>
+          <Key>description</Key>
+          <Value>Shinystat ziyaretçi sayıcısını görüntüle. NOT: bu pencere öğesini kullanabilmek için www.shinystat.com sitesine kayıt yapmanız gerekmektedir.</Value>
+        </Localization>
+        <Localization>
+          <Key>username</Key>
+          <Value>Shinystat Kullanıcı İsmi:</Value>
+        </Localization>
+      </Localizations>
+    </Language>
+  </Languages>
+</WebsiteX5LanguagesLibrary>
